@@ -1,4 +1,4 @@
-# Predator-vs-prey-ecosystem-simulation (v2 code + v2 showcase)
+# Predator-prey simulation `v2.0.`
 
 Simulation-based relationship between predator (blue squares) and prey/plant (green squares) on a simple grid. Periodic fluctuations are formed; stability depends on selected parameters.
 
