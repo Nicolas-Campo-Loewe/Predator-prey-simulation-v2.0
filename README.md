@@ -18,31 +18,25 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 | Right click | Place a predator |
 | `Shift` + click | Erase cell |
 | `+` / `-` | Increase / Decrease generations per second |
+<br><br>
 
+## Parameters
 
+| Keys | Parameter |
+|---|---|
+| `G` / `H` | Plant spread probability |
+| `E` / `D` | Spontaneous plant spawn probability |
+| `V` / `B` | Plant spread range |
+| `U` / `J` | Mobility energetic cost |
+| `I` / `K` | Energetic reproduction threshold |
+| `O` / `L` | Predator reproduction cost |
+<br><br>
 
+## Showcase:
 
+A full walkthrough of the simulation is available here: https://youtu.be/xU7l-ako1FA
+<br><br>
 
+## Version
 
-
-Controls:
-- [Space] - Pause/start
-- [N] - Advance 1 generation (only if paused)
-- [ X ] - Random reset
-- [ESC] - Exit
-- [F] - Alternate fullscreen
-- [Left mouse click] - Adds a plant
-- [Right mouse click] - Adds a predator
-- [Shift + click] - Errases cell
-
-Pameters and adjustments:
-- [G/H] - +/- Plant spread probability
-- [E/D] - +/- Spontaneous plant spawn probability
-- [V/B] - +/- Plant spread probability
-- [U/J] - +/- Mobility energetic cost
-- [I/K] - +/- Energetic reproduction threeshold
-- [O/L] - +/- Predator reproduction cost
-- [+/-] - +/- Generations per second
-
-CODE SHOWCASE IN THE FOLLOWING VIDEO
-https://www.youtube.com/watch?v=xU7l-ako1FA
+`v2.0` - **Latest version**. See the previous release `v1.5` here: https://github.com/Nicolas-Campo-Loewe/Predator-prey-simulator-v1.5
