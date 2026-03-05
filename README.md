@@ -19,6 +19,7 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 | `Shift` + click | Erase cell |
 | `+` / `-` | Increase / Decrease generations per second |
 <br><br>
+<br><br>
 
 ## Parameters
 
@@ -30,6 +31,7 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 | `U` / `J` | Mobility energetic cost |
 | `I` / `K` | Energetic reproduction threshold |
 | `O` / `L` | Predator reproduction cost |
+<br><br>
 <br><br>
 
 ## Showcase:
