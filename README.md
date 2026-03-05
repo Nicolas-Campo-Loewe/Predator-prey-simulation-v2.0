@@ -1,4 +1,4 @@
-# Predator-prey simulation `v2.0.`
+# Predator-prey simulation `v2.0`
 
 Simulation-based relationship between predator (blue squares) and prey/plant (green squares) on a simple grid. Periodic fluctuations are formed; stability depends on selected parameters.
 
