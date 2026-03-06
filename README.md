@@ -1,4 +1,4 @@
-# PREDATOR-PREY SIMULATOR `(v2.0)`
+# PREDATOR-PREY SIMULATION `(v2.0)`
 <br><br>
 
 ## Overwiew
