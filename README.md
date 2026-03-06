@@ -34,7 +34,7 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 
 ---
 
-## Showcase:
+## Showcase
 
 A full walkthrough of the simulation is available here: https://youtu.be/xU7l-ako1FA
 
