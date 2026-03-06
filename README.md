@@ -1,9 +1,9 @@
 # PREDATOR-PREY SIMULATION `(v2.0)`
-<br><br>
 
 ## Overwiew
 A grid-based simulation of predator-prey population dynamics, modeling the ecological relationship between two agents: predators (blue squares) and prey/plants (green squares). The system exhibits emergent periodic fluctuations, characteristic of Lotka-Volterra-type interactions, where population stability is sensitive to the parameters selected.
-<br><br>
+
+---
 
 ## Controls
 
@@ -19,7 +19,8 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 | `Shift` + click | Erase cell |
 | `+` / `-` | Increase / Decrease generations per second |
 
-<br><br>
+---
+
 ## Parameters
 
 | Keys | Parameter |
@@ -31,11 +32,13 @@ A grid-based simulation of predator-prey population dynamics, modeling the ecolo
 | `I` / `K` | Energetic reproduction threshold |
 | `O` / `L` | Predator reproduction cost |
 
-<br><br>
+---
+
 ## Showcase:
 
 A full walkthrough of the simulation is available here: https://youtu.be/xU7l-ako1FA
-<br><br>
+
+---
 
 ## Version
 
